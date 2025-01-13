@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/aa292929-c762-489f-9da9-6c4234318d70)
+![Captura de tela 2024-12-02 080246](https://github.com/user-attachments/assets/ef8d99ac-e8c3-4712-83a1-ce2c5a0bbde2)
+
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
